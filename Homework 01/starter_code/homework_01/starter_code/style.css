@@ -1,0 +1,40 @@
+header {
+    border-top:5px solid #222222;
+    border-bottom: #222222;
+    padding-left: 20px;
+    
+}
+
+
+
+body {
+    color: #05080c;
+    font-size: 18px;
+    line-height: 1.5;
+    background: #F6F6F6;
+    padding-left: 20px;
+    
+
+}
+
+
+img {
+    float: right;
+    margin-left: 5px;
+    padding-left: 20px;
+}
+p {
+    font-family: Georgia,Times,"Times New Roman",serif;
+    padding-left: 20px;
+}
+th {
+    background-color: #222222;
+    color: white;
+    padding: 10px;
+    padding-left: 20px;
+}
+td {
+    background-color: #eee;
+    padding: 10px;
+    padding-left: 20px;
+}
